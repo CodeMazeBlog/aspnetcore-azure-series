@@ -1,2 +1,3 @@
-# aspnetcore-azure-series
-This repo contains the source code for the "Azure with ASP.NET Core Series" of articles on Code Maze
+# Deploying ASP.NET Core Web API to Azure API Apps
+## https://code-maze.com/deploying-aspnet-core-web-api-azure-api-apps
+This repo contains the source code for the "Deploying ASP.NET Core Web API to Azure API Apps" article on Code Maze
